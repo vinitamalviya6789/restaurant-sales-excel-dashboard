@@ -113,5 +113,5 @@ Through this project, I practiced:
 ## Project Files
 
 • Restaurant_Sales_Dashboard.xlsx – Complete Excel project including data preparation, analysis and dashboard
-• Dashboard_Screenshot.png – Final dashboard preview
+• Dashboard.png – Final dashboard preview
 • Insights.md – Key findings from the analysis
