@@ -108,7 +108,8 @@ Through this project, I practiced:
 
 ## Dashboard Preview
 
-![Restaurant Sales Dashboard](Dashboard_Screenshot.png)
+<img width="1188" height="544" alt="Dashboard" src="https://github.com/user-attachments/assets/875dc794-9f93-4c7b-b912-984a34163e58" />
+
 
 ## Project Files
 
